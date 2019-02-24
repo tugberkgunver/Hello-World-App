@@ -1,4 +1,4 @@
 # Hello-World-App
 Hello World App For iOS
 
-![alt text](http://tinypic.com?ref=24ffafk)
+![alt text](github_helloworld_App.png)
